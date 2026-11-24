@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://samisahil.github.io/samiprofile/">
+  <a href="https://samisahil.github.io/portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-A85F3C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
   </a>
   <a href="mailto:samisahil186@gmail.com">
@@ -60,7 +60,7 @@ A full-stack platform that streamlines daily school operations with role-based p
 
 `JavaScript` `HTML5` `CSS3` `Express` `MongoDB` `JWT`
 
-**[Source code](https://github.com/SamiSahil/edusysv1)** · **[Live demo](https://edusysv1.vercel.app)**
+**[Source code](https://github.com/SamiSahil/edusysv1)**
 
 ### AIC Inventory — Stock & Order Management
 
@@ -78,13 +78,13 @@ An attendance tool for recording student presence, absences and leave, with clea
 
 **[Source code](https://github.com/SamiSahil/attendance)** · **[Live demo](https://SamiSahil.github.io/attendance)**
 
-### Personal Portfolio
+### Portfolio Website
 
-A responsive portfolio featuring an animated hero, typewriter introduction and a clean showcase of selected work.
+A responsive personal portfolio with a dotted hero, dark and light themes, a command palette and custom project covers.
 
-`React` `Framer Motion` `Typewriter Effect`
+`React` `Vite` `Tailwind CSS` `Framer Motion`
 
-**[Source code](https://github.com/SamiSahil/samiprofile)** · **[Live demo](https://samisahil.github.io/samiprofile/)**
+**[Source code](https://github.com/SamiSahil/portfolio)** · **[Live demo](https://samisahil.github.io/portfolio/)**
 
 **[More projects →](https://github.com/SamiSahil?tab=repositories)**
 
@@ -109,7 +109,7 @@ A responsive portfolio featuring an animated hero, typewriter introduction and a
 
 ## Connect With Me
 
-- **Portfolio** — [samisahil.github.io/samiprofile](https://samisahil.github.io/samiprofile/)
+- **Portfolio** - [samisahil.github.io/portfolio](https://samisahil.github.io/portfolio/)
 - **Email** — [samisahil186@gmail.com](mailto:samisahil186@gmail.com)
 - **GitHub** — [@SamiSahil](https://github.com/SamiSahil)
 - **Location** — Dhaka, Bangladesh

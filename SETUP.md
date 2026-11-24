@@ -69,7 +69,7 @@ Go to <https://github.com/settings/profile> and use these values:
 | **Bio** | `Full-Stack Developer · CSE student at Uttara University · React, Node.js, Express & PostgreSQL.` |
 | **Company** | `Uttara University` |
 | **Location** | `Dhaka, Bangladesh` |
-| **Website** | `https://samisahil.github.io/samiprofile/` |
+| **Website** | `https://samisahil.github.io/portfolio/` |
 | **Social links** | Add LinkedIn when ready, plus your portfolio |
 | **Pronouns** | Optional |
 
@@ -96,12 +96,12 @@ A polished README gets attention; empty repository descriptions undo it. For eac
 
 | Repository | Description | Website |
 | --- | --- | --- |
-| `edusysv1` | Full-stack school management system with role-based portals for students, teachers, accountants and staff. | `https://edusysv1.vercel.app` |
+| `edusysv1` | Full-stack school management system with role-based portals for students, teachers, accountants and staff. | - |
 | `aicinventory` | Inventory dashboard for stock levels, orders, profitability and delivery tracking — React + Google OAuth. | `https://SamiSahil.github.io/aicinventory` |
 | `attendance` | Student attendance tracker with monthly reports — React + Vite. | `https://SamiSahil.github.io/attendance` |
-| `samiprofile` | Personal portfolio with animated sections and a typewriter intro — React + Framer Motion. | `https://samisahil.github.io/samiprofile/` |
+| `samiprofile` | Personal portfolio with animated sections and a typewriter intro — React + Framer Motion. | `https://samisahil.github.io/portfolio/` |
 
-Suggested **topics** (comma-separated): `react`, `nodejs`, `express`, `mongodb`, `full-stack`, `school-management`, `inventory-management`, `portfolio`.
+Suggested **topics** (comma-separated): `react`, `vite`, `tailwindcss`, `nodejs`, `express`, `mongodb`, `full-stack`, `portfolio`.
 
 Other quick wins:
 
