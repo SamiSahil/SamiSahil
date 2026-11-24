@@ -18,8 +18,14 @@
   <a href="mailto:samisahil186@gmail.com">
     <img src="https://img.shields.io/badge/Email-A85F3C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://www.linkedin.com/in/samiuzzaman-sahil-11a833385/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://github.com/SamiSahil">
     <img src="https://img.shields.io/badge/GitHub-A85F3C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/samiuzzaman-sahil-11a833385/">
+    <img src="https://img.shields.io/badge/LinkedIn-A85F3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
@@ -110,9 +116,10 @@ A responsive personal portfolio with a dotted hero, dark and light themes, a com
 ## Connect With Me
 
 - **Portfolio** - [samisahil.github.io/portfolio](https://samisahil.github.io/portfolio/)
-- **Email** — [samisahil186@gmail.com](mailto:samisahil186@gmail.com)
-- **GitHub** — [@SamiSahil](https://github.com/SamiSahil)
-- **Location** — Dhaka, Bangladesh
+- **Email** - [samisahil186@gmail.com](mailto:samisahil186@gmail.com)
+- **GitHub** - [@SamiSahil](https://github.com/SamiSahil)
+- **LinkedIn** - [Samiuzzaman Sahil](https://www.linkedin.com/in/samiuzzaman-sahil-11a833385/)
+- **Location** - Dhaka, Bangladesh
 
 <p align="center"><i>Thanks for stopping by — always happy to connect and collaborate.</i></p>
 
