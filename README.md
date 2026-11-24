@@ -24,9 +24,6 @@
   <a href="https://github.com/SamiSahil">
     <img src="https://img.shields.io/badge/GitHub-A85F3C?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="https://www.linkedin.com/in/samiuzzaman-sahil-11a833385/">
-    <img src="https://img.shields.io/badge/LinkedIn-A85F3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </p>
 
 ---

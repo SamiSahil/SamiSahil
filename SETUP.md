@@ -1,4 +1,4 @@
-# GitHub Profile Setup — Samiuzzaman Sahil
+﻿# GitHub Profile Setup — Samiuzzaman Sahil
 
 This folder contains everything needed for a professional GitHub profile README, styled to match your résumé (charcoal + copper, clean typography).
 
@@ -70,7 +70,7 @@ Go to <https://github.com/settings/profile> and use these values:
 | **Company** | `Uttara University` |
 | **Location** | `Dhaka, Bangladesh` |
 | **Website** | `https://samisahil.github.io/portfolio/` |
-| **Social links** | Add LinkedIn when ready, plus your portfolio |
+| **Social links** | `https://www.linkedin.com/in/samiuzzaman-sahil-11a833385/` and `https://samisahil.github.io/portfolio/` |
 | **Pronouns** | Optional |
 
 Your current bio — *"Passionate About Exploring Something New…"* — is friendly but says nothing searchable. Recruiters and collaborators scan for role, stack and university, so the version above is more useful.
@@ -129,7 +129,7 @@ I deliberately left your phone number off the public README. Email, portfolio an
 python make_banner.py
 ```
 
-- Send me your **LinkedIn URL** and I'll add the badge and social link.
+- LinkedIn: `https://www.linkedin.com/in/samiuzzaman-sahil-11a833385/` (badge added to the README)
 - The stats cards are served by `github-readme-stats.vercel.app`. If they ever fail to load, it is usually temporary rate limiting — wait a few minutes or self-host the service.
 
 ### Two small notes
